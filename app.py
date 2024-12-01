@@ -61,7 +61,7 @@ def main():
         
         Follow these steps:
         
-        1. Upload an image by clicking on the 'Choose an image' image must be 1 MB or less.
+        1. Upload an image by clicking on the 'Choose an image'.
         2. Click on 'Extract Text' to perform text extraction.
         3. The extracted text will be displayed below the button.
         4. If desired, you can save the extracted text to a file using the 'Save Text to File' button.
